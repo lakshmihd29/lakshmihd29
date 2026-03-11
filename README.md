@@ -1,6 +1,6 @@
 # Hi 👋 I'm Lakshmi HD
 
-### AI / Machine Learning Engineer
+### Data Scientist | AI & Machine Learning Enthusiast
 
 I am passionate about **Machine Learning, Data Science, and Artificial Intelligence**.
 I enjoy building predictive models, analyzing data, and solving real-world problems using AI techniques.
