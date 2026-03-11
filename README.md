@@ -38,7 +38,7 @@ I enjoy building predictive models, analyzing data, and solving real-world probl
 * Feature Engineering
 * Model Evaluation
 
-**Data Analysis**
+**DataBases**
 
 * PostgreSQL
 * SQL
