@@ -20,6 +20,7 @@ I enjoy building predictive models, analyzing data, and solving real-world probl
 * Classification
 * Clustering
 * Deep Learning
+* Natural Language Processing (NLP)
 
 **Libraries & Tools**
 
@@ -29,6 +30,23 @@ I enjoy building predictive models, analyzing data, and solving real-world probl
 * NumPy
 * Matplotlib
 * Seaborn
+
+**Data Analysis**
+
+* Exploratory Data Analysis (EDA)
+* Data Cleaning & Preprocessing
+* Feature Engineering
+* Model Evaluation
+
+**Data Analysis**
+
+* PostgreSQL
+* SQL
+* MongoDB
+
+**APIs & Development**
+
+* REST APIs
 
 **Other Tools**
 
